@@ -1,0 +1,9 @@
+{
+  "PREFIX": "%", 
+  "TOKEN": "NzMzNDc2Njk1MTIxODU0NTA1.XxDtZw.EQyJSntZGA0iWvUGLuMIQXS8Ivg", 
+  "YOUTUBE_API_KEY": "AIzaSyB0p2XkItWtwD5rrXnKP6ZtcQDMq4hmVo4",
+  "QUEUE_LIMIT": 0,
+  "COLOR": "BLUE",
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=733476695121854505&permissions=8&scope=bot",
+  "supportURL": "https://discord.me/musixsupport"
+}
